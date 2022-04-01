@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="133" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1346" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/build.gradle.kts" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/gradle.properties" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="792" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/src/main/java/com/example/fixndstouchscreen/ui/theme/Theme.kt" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="3200" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/gradle/libs.versions.toml" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="631" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/src/main/java/com/example/fixndstouchscreen/MainActivity.kt" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
